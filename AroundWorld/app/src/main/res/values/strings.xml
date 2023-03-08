@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Around World !</string>
+
+    <string name="hello_world">Around World!</string>
+    <string name="description">Deskripsi</string><string name="uniquedescription">UniqueDeskripsi</string>
+
+    <string-array name="data_name">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Arab</item>
+        <item>China</item>
+        <item>Jepang</item>
+        <item>Rusia</item>
+        <item>Israel</item>
+        <item>Vietnam</item>
+        <item>Korea</item>
+        <item>England</item>
+    </string-array>
+
+    <string-array name="data_description">
+       <item>Indonesia adalah sebuah negara kepulauan yang terletak di Asia Tenggara. Negara ini memiliki keunikan dan kekayaan budaya yang sangat beragam, mulai dari bahasa, makanan, adat istiadat, tarian, musik, dan masih banyak lagi. Indonesia memiliki keunikan dari bahasanya beragama karena terdapat beragam suku ras serta agama di negara ini. </item>
+       <item>Malaysia adalah sebuah negara di Asia Tenggara yang terletak di antara Indonesia dan Thailand. Negara ini memiliki keunikan dan kekayaan budaya yang sangat beragam, mulai dari bahasa, makanan, adat istiadat, seni dan budaya, serta tempat wisata yang menarik.</item>
+       <item>Arab adalah sebuah wilayah yang terletak di Asia Barat dan Afrika Utara, yang terkenal dengan sejarah dan budayanya yang sangat kaya. Wilayah ini juga terkenal dengan keunikannya yang sangat khas dan menarik, mulai dari bahasa, agama, makanan, seni dan budaya, serta tempat wisata yang menakjubkan.</item>
+       <item>China adalah negara terbesar di Asia dan memiliki kekayaan sejarah, budaya, dan keindahan alam yang luar biasa. Negara ini memiliki keunikan yang sangat khas dan menarik, mulai dari bahasa, makanan, seni dan budaya, teknologi, dan tempat wisata yang menakjubkan. </item>
+       <item>Jepang adalah negara di Asia Timur yang terkenal dengan keunikannya yang sangat khas dan menarik, mulai dari budaya, teknologi, makanan, seni, dan alam yang indah</item>
+       <item>Rusia adalah negara terluas di dunia yang terletak di Asia dan Eropa. Negara ini memiliki banyak keunikan yang sangat menarik, mulai dari sejarah, budaya, seni, teknologi, dan alam yang luar biasa. </item>
+       <item>Israel adalah negara yang terletak di Timur Tengah, dan memiliki keunikan yang sangat menarik, mulai dari sejarah, budaya, agama, makanan, hingga teknologi. </item>
+       <item>Vietnam adalah negara yang terletak di Asia Tenggara dan memiliki sejarah yang kaya, budaya yang unik, dan alam yang indah.Vietnam memiliki sejarah yang panjang dan beragam, termasuk kerajaan-kernajaan awal seperti Dai Viet dan Champa, hingga masa penjajahan Prancis dan perang Vietnam yang terkenal. Beberapa situs bersejarah terkenal di Vietnam adalah Kota Kuno Hoi An, Kuil Angkor Wat, dan Kuil Bayon. </item>
+       <item>Korea adalah negara yang terletak di Asia Timur dan terbagi menjadi dua negara yaitu Korea Selatan dan Korea Utara. Negara ini memiliki keunikan yang sangat menarik, mulai dari sejarah, budaya, makanan, hingga industri hiburan</item>
+       <item>Inggris (Inggris) adalah negara yang terletak di Eropa dan terkenal dengan sejarah, budaya, dan alamnya yang unik. Inggris memiliki sejarah yang panjang dan kaya, termasuk pemerintahan kerajaan dan Perang Dunia II. Beberapa situs bersejarah terkenal di Inggris adalah Menara London, Stonehenge, dan Istana Buckingham. </item>
+
+    </string-array>
+
+    <integer-array name="data_uniquephoto">
+        <item>@drawable/indonesiaunique</item>
+        <item>@drawable/malaysiaunique</item>
+        <item>@drawable/arabunique</item>
+        <item>@drawable/chinaunique</item>
+        <item>@drawable/jepangunique</item>
+        <item>@drawable/rusiaunique</item>
+        <item>@drawable/israelunique</item>
+        <item>@drawable/vietnameunique</item>
+        <item>@drawable/koreaunique</item>
+        <item>@drawable/englandunique</item>
+
+    </integer-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/indonesia</item>
+        <item>@drawable/malaysia</item>
+        <item>@drawable/arab</item>
+        <item>@drawable/china</item>
+        <item>@drawable/jepang</item>
+        <item>@drawable/rusia</item>
+        <item>@drawable/israel</item>
+        <item>@drawable/vietnam</item>
+        <item>@drawable/korea</item>
+        <item>@drawable/england</item>
+    </integer-array>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="hello_worlde">Around World !</string>
+    <string name="title">Title</string>
+
+</resources>
